@@ -3,9 +3,10 @@
 Inappropriate intake of food is known to cause various health issues. Due to lack of concise information about healthy diet, people have to rely on medicines instead of taking preventive measures in food intake. Therefore, a user-friendly conversational agent like nutrition-chatbot can be implemented for better user interaction which can give solutions to people’s common questions like ‘what are some healthy meals to have in breakfast, lunch and dinner?’, ‘how much calorie should be consumed in a day?’ and many more questions related to individual’s health. So, this bot helps users to get appropriate guidance and information regarding their health and diet.
 The primary azure technologies used are Azure bot service,QnA maker.
 
-The web app bot is deployed using TELEGRAM as the platform and could be accessed using https://telegram.me/Nutrition_FAQs_bot .
+The web app bot is deployed using TELEGRAM as the platform and could be accessed using https://telegram.me/Nutrition_FAQs_bot.
 
 The following screenshots explain the procedure of bot working:
+
 ![Screenshot (28)](https://user-images.githubusercontent.com/93673311/192776688-f3221aeb-6921-4d01-bf31-1a027eb5a2be.png)
 ![Screenshot (29)](https://user-images.githubusercontent.com/93673311/192776824-3015676e-d264-4222-a819-6a29259d4ac3.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/93673311/192776859-c5c74dd5-c691-44e5-807c-34208511efbc.png)
