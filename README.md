@@ -5,7 +5,10 @@ The primary azure technologies used are Azure bot service,QnA maker.
 
 The web app bot is deployed using TELEGRAM as the platform and could be accessed using https://telegram.me/Nutrition_FAQs_bot.
 
-The following screenshots explain the procedure of bot working:
+The following is the video that explain the procedure of bot creation and working:
+
+
+These are few screenshots regarding the chat boy working:
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/93673311/192776688-f3221aeb-6921-4d01-bf31-1a027eb5a2be.png)
 ![Screenshot (29)](https://user-images.githubusercontent.com/93673311/192776824-3015676e-d264-4222-a819-6a29259d4ac3.png)
